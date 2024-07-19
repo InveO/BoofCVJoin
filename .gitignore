@@ -36,3 +36,11 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/saveactions_settings.xml
+/.idea/vcs.xml
+/boof.jar
